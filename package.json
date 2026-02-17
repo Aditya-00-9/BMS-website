@@ -1,8 +1,8 @@
 {
-  "name": "bms-owner-portal-marketing-site",
+  "name": "pulseai-marketing-site",
   "version": "1.0.0",
   "private": true,
-  "description": "Marketing homepage for the BMS Owner Portal SaaS platform.",
+  "description": "Marketing homepage for the PulseAI SaaS platform.",
   "scripts": {
     "start": "npx serve ."
   }

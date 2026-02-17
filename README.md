@@ -1,6 +1,6 @@
-# BMS Owner Portal – Marketing Site
+# PulseAI – Marketing Site
 
-Static marketing homepage for the **BMS Owner Portal**, a business management system for education centers, academies, and multi-location learning networks.
+Static marketing homepage for **PulseAI**, an AI-powered business management system for service-based and multi-location organizations.
 
 ## Project structure
 
@@ -35,7 +35,7 @@ Then visit `http://localhost:3000` (or the port your static server reports).
    ```bash
    git init
    git add .
-   git commit -m "Add BMS Owner Portal marketing site"
+   git commit -m "Add PulseAI marketing site"
    git branch -M main
    git remote add origin <your-github-repo-url>
    git push -u origin main
